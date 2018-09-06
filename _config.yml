@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -279,8 +279,8 @@ defaults:
       layout: single
       author_profile: true
 
-=======
+#=======
 #theme: jekyll-theme-cayman
 #title: Haileab's Website
 #description: A space for sharing data science projects
->>>>>>> ebf58a3188ccb2afea51d26b7bec4c8f125bcc0b
+#>>>>>>> ebf58a3188ccb2afea51d26b7bec4c8f125bcc0b
